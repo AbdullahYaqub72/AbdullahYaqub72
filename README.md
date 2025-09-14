@@ -12,7 +12,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 **Computer Science Graduate (3.82/4.0)** from UET Lahore  
+- 🎓 **Computer Science Graduate** from UET Lahore  
 - 💼 Currently working as a **Software Engineer @ Dubizzle Labs**  
 - 🔭 Focused on **Backend Development, Scalable Systems, and AI/ML Applications**  
 - 🏆 Winner of **Final Year Project Competition 2024** at UET Lahore  
@@ -37,14 +37,6 @@
 
 ---
 
-### 🚀 Projects
-- **Vidit** – AI-powered text-to-video generation tool for Urdu poetry (FYP)  
-- **CXOR Engineering IMS** – Desktop inventory management system in **C# & .NET**  
-- **Course Scraper** – Python scraper with **PyQt5 GUI** and algorithm benchmarking  
-- **JazzCash Desktop Clone** – Java-based simulation of JazzCash features  
-
----
-
 ### 🛠️ Skills
 - **Languages:** Python, Java, C++, C#, SQL, Dart, JavaScript  
 - **Frameworks & Tools:** Django, React, Flutter, .NET, TailwindCSS  
@@ -59,7 +51,6 @@
 ### 🌐 Connect With Me
 <p align="left">
 <a href="https://www.linkedin.com/in/abdullah-yaqub-385b8121a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://www.facebook.com/abdullah.yaqub.587" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
 <a href="https://www.instagram.com/abdullahyaqub55/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
